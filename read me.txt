@@ -1,0 +1,3 @@
+# Research Paper Summarizer
+
+This repository contains the system prompt and all modules for the CISC 101 Research Paper Summarizer project.
